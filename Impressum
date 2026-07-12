@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Impressum | Lenson Consulting</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<main class="container" style="padding:80px 0">
+
+<h1>Impressum</h1>
+
+<h2>Angaben gemäß § 5 DDG</h2>
+
+<p>
+Lenson Consulting<br>
+Robin Lenson<br>
+Carl-Reiß-Platz 15<br>
+68165 Mannheim<br>
+</p>
+
+<h2>Kontakt</h2>
+
+<p>
+E-Mail:
+kontakt@lensonconsulting.de
+</p>
+
+<h2>Verantwortlich für den Inhalt</h2>
+
+<p>
+wie oben
+</p>
+
+</main>
+
+</body>
+</html>
